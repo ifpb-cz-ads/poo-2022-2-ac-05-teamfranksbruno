@@ -12,7 +12,9 @@ class Registro De Eleitor
 } // fim da classe
 ```
 
-O espaçamento entre as palavras no nome da classe.
+> O espaçamento entre as palavras no nome da classe.
+
+***
 
 ### 8. Identifique e explique o(s) erro(s) na classe abaixo:
 
@@ -41,7 +43,9 @@ class Teste2
 } // fim da classe
 ```
 
-As váriaveis não foram inicializadas, então não é possivel fazer as comparações.
+> As váriaveis não foram inicializadas, então não é possivel fazer as comparações.
+
+***
 
 ### 9. Identifique e explique o(s) erro(s) na classe abaixo.
 
@@ -59,8 +63,9 @@ class TesteImpressao
 } // fim da classe
 ```
 
-A main foi inicializada de forma errada, o jeito certo seria:
+> A main foi inicializada de forma errada, o jeito certo seria:
 ```
-public static void main(String[] args)
+public static boolean main(String[] args)
 ```
+***
 
